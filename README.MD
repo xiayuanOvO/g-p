@@ -9,3 +9,9 @@ Github上那些有价值的项目
 免费、开源的音乐下载助手，可下载标准质量音频。
 
 https://github.com/lyswhut/lx-music-desktop
+
+## 图床
+
+### 兰空图床
+
+https://github.com/lsky-org/lsky-pro
